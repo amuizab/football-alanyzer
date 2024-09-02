@@ -30,4 +30,13 @@ Our system processes input football match videos using advanced computer vision 
 
 ## Demo
 - Input Video
+  ![testvideo_compressd_gif](https://github.com/user-attachments/assets/b0c20658-19bf-4184-b74b-f7d26ff39e4d)
+
+- Output Video
+  ![output-lean-gif](https://github.com/user-attachments/assets/d3bffc62-021a-42af-983b-fe46b47881ef)
+
+- Minimap Output
+  ![outputmini-map-gif](https://github.com/user-attachments/assets/f98df5a2-7712-4f4d-b2ac-df0872bc61ae)
+
+
   
