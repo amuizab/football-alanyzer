@@ -39,4 +39,8 @@ Our system processes input football match videos using advanced computer vision 
   ![outputmini-map-gif](https://github.com/user-attachments/assets/f98df5a2-7712-4f4d-b2ac-df0872bc61ae)
 
 
+## Next Development
+    - Action detection to detect what is happening on the pitch and record it as the stats of the game.
+    - Provide statistical analysis (pass completion, shot accuracy, player distance, and so)
+    - Tactical Analysis on formation changing throughout the match
   
