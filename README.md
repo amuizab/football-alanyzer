@@ -26,3 +26,8 @@ Our system processes input football match videos using advanced computer vision 
     - Draw detected keypoints on every video frame
 9. Final output:
     - Save annotated original video as result (video frames and minimap frames)
+  
+
+## Demo
+- Input Video
+  
